@@ -1,3 +1,6 @@
+
+# Forked to try adding CO alarm and Leak detector
+
 # Home Assistant add-on: Futurehome FIMP to MQTT
 
 ## About
